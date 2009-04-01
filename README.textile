@@ -1,4 +1,4 @@
-= greengreen
+h1. greengreen
 
 Are you following the Ruby Maturity Model, fully leveraging Agile
 methodologies, enjoying the benefits of outside-in test-driven development,
@@ -13,33 +13,41 @@ pipeline, and enjoy increased development velocity with greengreen.  Using
 an adaptive graph relabeling algorithm [1], greengreen normalizes the output of
 automated Ruby test suites and aligns it with the desired outcome.
 
-== Installation
+<img src="doc/greengreen.png" />
 
- gem sources -a http://gems.github.com
- sudo gem install jasonm-greengreen
+h2. Installation
 
-== Usage
+<pre>
+gem sources -a http://gems.github.com
+sudo gem install jasonm-greengreen
+</pre>
+
+h2. Usage
 
 In your test_helper.rb, or config/environments/test.rb, or where ever you like:
 
- require 'rubygems'
- gem 'greengreen'
- require 'greengreen'
+<pre>
+require 'rubygems'
+gem 'greengreen'
+require 'greengreen'
+</pre>
 
 
-= Copyright
+h2. Copyright
 
 To say that this code borrows heavily from Pat Eyler's RedGreen is an
 understatement.  It's RedGreen, with a few changes.  As such, this is released
 under the same license as Pat Eyler's awesome RedGreen [2], whatever that
 might be, I couldn't really find anything about licensing for RedGreen.
 
-= References
+h2. References
 
- 1. A comprehensive study on adaptive graph relabeling algorithms under the
-    application of Phthalocyanine G-pigmented oxidative crosslinked enamels.
-    Fletcher, C., Stewart, M., Dr. Rebecca, A.
-    International Precedings on Software Development Velocity and Painting.
-    http://is.gd/q7Mc
+<pre>
+[1] A comprehensive study on adaptive graph relabeling algorithms under the
+application of Phthalocyanine G-pigmented oxidative crosslinked enamels.
+Fletcher, C., Stewart, M., Dr. Rebecca, A.
+International Precedings on Software Development Velocity and Painting.
+http://is.gd/q7Mc
 
- 2. http://on-ruby.blogspot.com/2006/05/red-and-green-for-ruby.html
+[2] http://on-ruby.blogspot.com/2006/05/red-and-green-for-ruby.html
+</pre>
