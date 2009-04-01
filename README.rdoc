@@ -31,7 +31,7 @@ In your test_helper.rb, or config/environments/test.rb, or where ever you like:
 
 To say that this code borrows heavily from Pat Eyler's RedGreen is an
 understatement.  It's RedGreen, with a few changes.  As such, this is released
-under the same license as Pat Eyler's awesome RedGreen [3], whatever that
+under the same license as Pat Eyler's awesome RedGreen [2], whatever that
 might be, I couldn't really find anything about licensing for RedGreen.
 
 = References
@@ -42,6 +42,4 @@ might be, I couldn't really find anything about licensing for RedGreen.
     International Precedings on Software Development Velocity and Painting.
     http://is.gd/q7Mc
 
- 2. http://errtheblog.com/posts/13-colored-tests
-
- 3. http://on-ruby.blogspot.com/2006/05/red-and-green-for-ruby.html
+ 2. http://on-ruby.blogspot.com/2006/05/red-and-green-for-ruby.html
