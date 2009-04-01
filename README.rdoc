@@ -33,7 +33,8 @@ Released under the same license as RedGreen [3] by Pat Eyler.
 
 = References
 
- 1. A comprehensive study on adaptive graph relabeling algorithms under the application of Phthalocyanine G-pigmented oxidative crosslinked enamels.
+ 1. A comprehensive study on adaptive graph relabeling algorithms under the
+    application of Phthalocyanine G-pigmented oxidative crosslinked enamels.
     Fletcher, C., Stewart, M., Dr. Rebecca, A.
     International Precedings on Software Development Velocity and Painting.
     http://is.gd/q7Mc
