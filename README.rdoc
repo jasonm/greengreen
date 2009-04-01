@@ -29,7 +29,10 @@ In your test_helper.rb, or config/environments/test.rb, or where ever you like:
 
 = Copyright
 
-Released under the same license as RedGreen [3] by Pat Eyler.
+To say that this code borrows heavily from Pat Eyler's RedGreen is an
+understatement.  It's RedGreen, with a few changes.  As such, this is released
+under the same license as Pat Eyler's awesome RedGreen [3], whatever that
+might be, I couldn't really find anything about licensing for RedGreen.
 
 = References
 
