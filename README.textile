@@ -13,7 +13,7 @@ pipeline, and enjoy increased development velocity with greengreen.  Using
 an adaptive graph relabeling algorithm [1], greengreen normalizes the output of
 automated Ruby test suites and aligns it with the desired outcome.
 
-<img src="doc/greengreen.png" />
+<img src="https://raw.github.com/jasonm/greengreen/master/doc/greengreen.png" />
 
 h2. Installation
 
